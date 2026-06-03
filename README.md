@@ -1,2 +1,2 @@
 # netologyhw
-netologyhw
+netologyhw hello_git
